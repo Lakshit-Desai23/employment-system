@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Lakshit-Desai23/employment-system-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Lakshit-Desai23/employment-system-frontend.git
